@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=4DA3FF&center=true&vCenter=true&width=720&lines=Competitive+Programming+Enthusiast;DSA+Learner+%7C+Problem+Solver;Electronics+and+Communication+Engineering+Student"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=4DA3FF&center=true&vCenter=true&width=720&lines=Competitive+Programming+Enthusiast;DSA+Learner+%7C+Problem+Solver"/>
 <p align="center">
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="65%">
 </p>
